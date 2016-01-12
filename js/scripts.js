@@ -11,6 +11,7 @@ $(document).ready(function() {
     $('.end').text(endInput);
 
     $('#apptConfirm').show();
+    $('#apptConfirm').css("display", "inline-block");
 
     event.preventDefault();
 

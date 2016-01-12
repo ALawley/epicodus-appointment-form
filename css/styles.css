@@ -1,3 +1,17 @@
+
+
+#blanks form {
+  width: 50%;
+  margin-left: 20%;
+  margin-right: 20%;
+}
+
 #apptConfirm {
+  width: 50%;
+  margin-left: 20%;
+  margin-right: 20%;
   display: none;
+  border: 2px solid black;
+  margin-top: 15px;
+  padding: 10px;
 }
